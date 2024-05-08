@@ -1,6 +1,6 @@
 <!-- Link para o site que cria o codigo para o texto com aparencia de digitação -->
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=1500&pause=1000&color=1ea896&random=false&width=600&height=80&lines=Ol%C3%A1%2C+Me+chamo+Eduarda+Santiago!;Seja+bem+vindo+ao+meu+perfil!%F0%9F%91%8B" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&pause=1000&center=&vCenter=&repeat=&random=falso&width=435&lines=Ol%C3%A1%2C+me+chamo+Eduarda+Santiago+!;Seja+bem+vindo+ao+meu+perfil+!%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 <div>
 
